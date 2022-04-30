@@ -96,9 +96,6 @@ New to open source, want to contribute and feel lost? Check
 [How to make a PR](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
 ## 🤝 Colaborators!
-
-Agradecemos às seguintes pessoas que contribuíram para este projeto:
-
 <table>
   <tr>
     <td align="center">
