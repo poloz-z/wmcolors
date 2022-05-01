@@ -131,6 +131,6 @@ New to open source, want to contribute and feel lost? Check
 
 ## 📝 License
 
-This project is licensed under GPLv3. Read [LICENSE](license.md) for details.
+This project is licensed under GPLv3. Read [LICENSE](LICENSE ) for details.
 
 [⬆ Go to top](#)<br>
