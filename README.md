@@ -14,11 +14,7 @@
 
 The project is currently under development. Check our progress within the following TODO list:
 
-- [x] Task 1
-- [x] Task 2
-- [x] Task 3
-- [ ] Task 4
-- [ ] Task 5
+- [ ] Parse the configuration file to apply changes.
 
 ## 💻 Pre-requisites
 
