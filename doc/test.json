@@ -1,7 +1,7 @@
 {
     "themes": {
         "name": "default",
-        "day/nigt mode": true,
+        "nigth-mode-toggle": true,
         "dark": {
             "colors": {
                 "primary": {
