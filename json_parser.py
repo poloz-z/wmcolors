@@ -46,11 +46,3 @@ def validate_json(json_data):
 
     message = "Given JSON data is Valid"
     return True, message
-
-
-# Convert json to python object.
-jsonData = json.loads('{"id" : 10,"name": "DonOfDen","contact_number":1234567890}')
-
-# validate it
-is_valid, msg = validate_json(jsonData)
-print(msg)
