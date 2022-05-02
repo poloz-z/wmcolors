@@ -1,0 +1,62 @@
+{
+    "themes": {
+        "name": "default",
+        "day/nigt mode": true,
+        "dark": {
+            "colors": {
+                "primary": {
+                    "background": "0x0d1213",
+                    "foreground": "0xacccd5"
+                },
+                "normal": {
+                    "black": "0x161d1e",
+                    "red": "0x1e2528",
+                    "green": "0x2d373a",
+                    "yellow": "0x414f53",
+                    "blue": "0x5b6c72",
+                    "magenta": "0x799097",
+                    "cyan": "0x9cb9c2",
+                    "white": "0xd4e5eb"
+                },
+                "bright": {
+                    "black": "0x9ca759",
+                    "red": "0x9ba83a",
+                    "green": "0x63e2b3",
+                    "yellow": "0x5fd9ab",
+                    "blue": "0x65c8a1",
+                    "magenta": "0x58ca9f",
+                    "cyan": "0xe8a1c8",
+                    "white": "0xf9a575"
+                }
+            }
+        },
+        "Light": {
+            "colors": {
+                "primary": {
+                    "background": "0x0d1213",
+                    "foreground": "0xacccd5"
+                },
+                "normal": {
+                    "black": "0x161d1e",
+                    "red": "0x1e2528",
+                    "green": "0x2d373a",
+                    "yellow": "0x414f53",
+                    "blue": "0x5b6c72",
+                    "magenta": "0x799097",
+                    "cyan": "0x9cb9c2",
+                    "white": "0xd4e5eb"
+                },
+                "bright": {
+                    "black": "0x9ca759",
+                    "red": "0x9ba83a",
+                    "green": "0x63e2b3",
+                    "yellow": "0x5fd9ab",
+                    "blue": "0x65c8a1",
+                    "magenta": "0x58ca9f",
+                    "cyan": "0xe8a1c8",
+                    "white": "0xf9a575"
+                }
+            }
+        }
+    }
+}
