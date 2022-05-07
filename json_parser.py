@@ -27,7 +27,7 @@ def get_test():
 """
 Function to validate the json against 
 """
-def validate_json(json_data):
+def validate_json():
     """REF: https://json-schema.org/ """
     # Describe what kind of json you expect.
     execute_api_schema = get_schema()
@@ -42,7 +42,16 @@ def validate_json(json_data):
     except jsonschema.exceptions.ValidationError as err:
         print(err)
         err = "Given JSON data is InValid"
-        return False, err
+        return False
 
     message = "Given JSON data is Valid"
-    return True, message
+    return True
+
+"""
+Returns a dictionarie with every key-value inside the json.
+"""
+def parse_json_to_dict(path):
+  with open(path, 'r') as palette:
+    json_parsed = json.load(palette)
+  return json_parsed
+
