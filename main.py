@@ -6,5 +6,6 @@ def main():
  else:
    print("The config file is corrupt nor doesn't exists.")
 
-
-main()
+   
+if __name__ == "__main__":
+    main()
